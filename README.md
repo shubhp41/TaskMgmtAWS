@@ -2,7 +2,7 @@
 
 TaskFlow AWS is a contemporary task management application that seamlessly combines React for the frontend, Express for the backend, and harnesses the power of Amazon Web Services (AWS) for cloud hosting and infrastructure. This repository provides a comprehensive solution for users to efficiently manage tasks, set reminders, and enhance overall productivity.
 
-![TaskFlow AWS Architecture](/path/to/architecture/image.png)
+![TaskFlow AWS Architecture](/Architecture.png)
 
 ## Features
 
@@ -44,9 +44,6 @@ TaskFlow AWS is a contemporary task management application that seamlessly combi
 
 We welcome contributions to TaskFlow AWS! If you encounter any issues or have suggestions for improvements, please submit a pull request or open an issue.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
